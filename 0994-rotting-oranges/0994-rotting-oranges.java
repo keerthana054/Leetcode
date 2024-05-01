@@ -1,37 +1,42 @@
 class Solution {
-    
     public int orangesRotting(int[][] grid) {
-        if(grid == null || grid.length == 0) return -1;
+        if(grid==null || grid.length==0){
+            return -1;
+        }
         
-        for(int i=0; i<grid.length; i++) {
-            for(int j=0; j<grid[0].length; j++) {
-                if(grid[i][j] == 2) rotAdjacent(grid, i, j, 2);
+        Queue<int[]> queue = new LinkedList<>();
+        int freshO = 0;
+        
+        for(int i=0;i<grid.length;i++){
+            for(int j=0;j<grid[0].length;j++){
+                if(grid[i][j]==2){
+                    queue.offer(new int[]{i,j});
+                }
+                else if(grid[i][j]==1){
+                    freshO++;
+                }
             }
         }
         
-        int minutes = 2;
-        for(int[] row : grid) {
-            for(int cell : row) {
-                if(cell == 1) return -1;
-                minutes = Math.max(minutes, cell);
-            }
-        }
+        int[][] directions = {{-1,0},{1,0},{0,-1},{0,1}};
+        int minutes = 0;
         
-        return minutes - 2;
-    }
-    
-    private void rotAdjacent(int[][] grid, int i, int j, int minutes) {
-        if(i < 0 || i >= grid.length /* out of bounds */
-          || j < 0 || j >= grid[0].length /* out of bounds */
-          || grid[i][j] == 0 /* empty cell */
-          || (1 < grid[i][j] && grid[i][j] < minutes) /* this orange is already rotten by another rotten orange */
-          ) return;
-        else {
-            grid[i][j] = minutes;
-            rotAdjacent(grid, i - 1, j, minutes + 1);
-            rotAdjacent(grid, i + 1, j, minutes + 1);
-            rotAdjacent(grid, i, j - 1, minutes + 1);
-            rotAdjacent(grid, i, j + 1, minutes + 1);
+        while(!queue.isEmpty() && freshO>0){
+            int size = queue.size();
+            for(int i =0;i<size; i++){
+                int current[] = queue.poll();
+                for(int[] dir: directions){
+                    int x = current[0] + dir[0];
+                    int y = current[1] + dir[1];
+                    if(x>=0 && x<grid.length && y>=0 && y<grid[0].length && grid[x][y]==1){
+                        grid[x][y]=2;
+                        freshO--;
+                        queue.offer(new int[]{x,y});
+                    }
+                }
+            }
+            minutes++;
         }
+        return freshO==0?minutes:-1;
     }
 }
