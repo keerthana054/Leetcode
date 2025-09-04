@@ -37,6 +37,7 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keerthana054/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/keerthana054/Leetcode/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
 | ------- |
