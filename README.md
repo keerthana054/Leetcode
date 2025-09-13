@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/keerthana054/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keerthana054/Leetcode/tree/master/0242-valid-anagram) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthana054/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/keerthana054/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/keerthana054/Leetcode/tree/master/0242-valid-anagram) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthana054/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/keerthana054/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthana054/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
