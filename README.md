@@ -86,6 +86,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keerthana054/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/keerthana054/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |
@@ -95,4 +96,16 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/keerthana054/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keerthana054/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keerthana054/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/keerthana054/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
