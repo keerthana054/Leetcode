@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keerthana054/Leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/keerthana054/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/keerthana054/Leetcode/tree/master/0217-contains-duplicate) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/keerthana054/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |
@@ -103,6 +105,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthana054/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -124,4 +127,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/keerthana054/Leetcode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
