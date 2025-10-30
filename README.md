@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/keerthana054/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/keerthana054/Leetcode/tree/master/0217-contains-duplicate) |
+| [0406-queue-reconstruction-by-height](https://github.com/keerthana054/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -29,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/keerthana054/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/keerthana054/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keerthana054/Leetcode/tree/master/0242-valid-anagram) |
+| [0406-queue-reconstruction-by-height](https://github.com/keerthana054/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keerthana054/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String
@@ -135,4 +137,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/keerthana054/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/keerthana054/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
