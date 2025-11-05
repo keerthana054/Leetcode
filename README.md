@@ -18,6 +18,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keerthana054/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keerthana054/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/keerthana054/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/keerthana054/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0242-valid-anagram](https://github.com/keerthana054/Leetcode/tree/master/0242-valid-anagram) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keerthana054/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/keerthana054/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthana054/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthana054/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/keerthana054/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -180,4 +183,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/keerthana054/Leetcode/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/keerthana054/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 <!---LeetCode Topics End-->
