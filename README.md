@@ -15,6 +15,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keerthana054/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keerthana054/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keerthana054/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -57,6 +58,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/keerthana054/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Simulation
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthana054/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/keerthana054/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Linked List
 |  |
@@ -166,6 +170,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3790-fruits-into-baskets-ii](https://github.com/keerthana054/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -187,4 +192,8 @@
 |  |
 | ------- |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/keerthana054/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
