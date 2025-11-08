@@ -82,6 +82,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/keerthana054/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/keerthana054/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Brainteaser
 |  |
@@ -93,6 +94,7 @@
 | [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/keerthana054/Leetcode/tree/master/0053-maximum-subarray) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/keerthana054/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/keerthana054/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/keerthana054/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
