@@ -65,6 +65,7 @@
 | [0002-add-two-numbers](https://github.com/keerthana054/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/keerthana054/Leetcode/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/keerthana054/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/keerthana054/Leetcode/tree/master/0319-bulb-switcher) |
 | [0903-implement-rand10-using-rand7](https://github.com/keerthana054/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/keerthana054/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/keerthana054/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/keerthana054/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/keerthana054/Leetcode/tree/master/0319-bulb-switcher) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/keerthana054/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Dynamic Programming
 |  |
