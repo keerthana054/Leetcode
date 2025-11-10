@@ -64,6 +64,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/keerthana054/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/keerthana054/Leetcode/tree/master/0013-roman-to-integer) |
+| [0903-implement-rand10-using-rand7](https://github.com/keerthana054/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/keerthana054/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keerthana054/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -202,4 +203,16 @@
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/keerthana054/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/keerthana054/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/keerthana054/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/keerthana054/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
