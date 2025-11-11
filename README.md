@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/keerthana054/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/keerthana054/Leetcode/tree/master/0217-contains-duplicate) |
 | [0406-queue-reconstruction-by-height](https://github.com/keerthana054/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -50,6 +51,7 @@
 | [0013-roman-to-integer](https://github.com/keerthana054/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/keerthana054/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/keerthana054/Leetcode/tree/master/0242-valid-anagram) |
+| [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthana054/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -100,6 +102,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/keerthana054/Leetcode/tree/master/0053-maximum-subarray) |
+| [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/keerthana054/Leetcode/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/keerthana054/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
