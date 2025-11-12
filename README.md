@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/keerthana054/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/keerthana054/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/keerthana054/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/keerthana054/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -31,6 +32,7 @@
 | [0049-group-anagrams](https://github.com/keerthana054/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/keerthana054/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keerthana054/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keerthana054/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/keerthana054/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -41,6 +43,7 @@
 | [0049-group-anagrams](https://github.com/keerthana054/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/keerthana054/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keerthana054/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/keerthana054/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keerthana054/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -66,6 +69,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/keerthana054/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/keerthana054/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/keerthana054/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/keerthana054/Leetcode/tree/master/0319-bulb-switcher) |
 | [0903-implement-rand10-using-rand7](https://github.com/keerthana054/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
@@ -89,6 +93,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/keerthana054/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/keerthana054/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Brainteaser
@@ -183,6 +188,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3790-fruits-into-baskets-ii](https://github.com/keerthana054/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
