@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/keerthana054/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/keerthana054/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthana054/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -33,6 +34,7 @@
 | [0217-contains-duplicate](https://github.com/keerthana054/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keerthana054/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthana054/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keerthana054/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/keerthana054/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
