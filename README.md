@@ -21,6 +21,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keerthana054/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/keerthana054/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keerthana054/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keerthana054/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keerthana054/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/keerthana054/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 ## Backtracking
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/keerthana054/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 ## Memoization
 |  |
 | ------- |
