@@ -19,6 +19,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthana054/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2058-concatenation-of-array](https://github.com/keerthana054/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keerthana054/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/keerthana054/Leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -133,6 +134,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/keerthana054/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keerthana054/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/keerthana054/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/keerthana054/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
