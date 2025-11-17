@@ -1,47 +1,28 @@
 class Solution {
-    public static String[] findRelativeRanks(int[] score) {
-int max = 0;
-        HashMap<Integer, String> map = new HashMap<>();
-        String[] str = new String[score.length];
-        for (var num : score) {
-            max = Math.max(max,num);
+    public String[] findRelativeRanks(int[] score) {
+        int n = score.length;
 
-        }
-        int[] arr = new int[max+1];
-        for (var num : score) {
-            arr[num] = 1;
-
+        PriorityQueue<Pair<Integer, Integer>> heap = new PriorityQueue<>((a,b) -> b.getKey() - a.getKey());
+        for( int i = 0; i<n; i++) {
+            heap.add(new Pair<>(score[i], i));
         }
 
-        int counter = 0;
-        int j = 0;
-        for (int i = arr.length - 1; i >= 0; i--) {
-            if (arr[i] > 0 && counter < 3) {
-                if (counter == 0) {
-                    map.put(i, "Gold Medal");
-                    counter++;
-                } else if (counter == 1) {
-                    map.put(i, "Silver Medal");
-                    counter++;
-                } else if (counter == 2) {
-                    map.put(i, "Bronze Medal");
-                    counter++;
-                }
+        String[] rank = new String[n];
+        int place = 1;
+        while(!heap.isEmpty()) {
+            Pair <Integer, Integer> pair = heap.poll();
+            int originalIndex = pair.getValue();
+            if (place == 1) {
+                rank[originalIndex] = "Gold Medal";
+            } else if (place == 2) {
+                rank[originalIndex] = "Silver Medal";
+            } else if (place==3) {
+                rank[originalIndex] = "Bronze Medal";
             } else {
-
-                if (arr[i] > 0) {
-                    counter++;
-                    map.put(i, String.valueOf(counter));
-                }
+                rank[originalIndex] = String.valueOf(place);
             }
-
+            place++;
         }
-        for (var num : score) {
-
-            str[j] = map.get(num);
-           
-            j++;
-        }
-        return str;
+        return rank;
     }
 }
