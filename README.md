@@ -17,6 +17,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthana054/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthana054/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/keerthana054/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2058-concatenation-of-array](https://github.com/keerthana054/Leetcode/tree/master/2058-concatenation-of-array) |
