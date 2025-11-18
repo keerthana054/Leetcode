@@ -90,6 +90,7 @@
 | [0915-generate-random-point-in-a-circle](https://github.com/keerthana054/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthana054/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/keerthana054/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2649-count-total-number-of-colored-cells](https://github.com/keerthana054/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/keerthana054/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3830-find-closest-person](https://github.com/keerthana054/Leetcode/tree/master/3830-find-closest-person) |
