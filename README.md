@@ -16,6 +16,7 @@
 | [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0506-relative-ranks](https://github.com/keerthana054/Leetcode/tree/master/0506-relative-ranks) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1127-last-stone-weight](https://github.com/keerthana054/Leetcode/tree/master/1127-last-stone-weight) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthana054/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthana054/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/keerthana054/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/keerthana054/Leetcode/tree/master/0506-relative-ranks) |
+| [1127-last-stone-weight](https://github.com/keerthana054/Leetcode/tree/master/1127-last-stone-weight) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/keerthana054/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Prefix Sum
 |  |
