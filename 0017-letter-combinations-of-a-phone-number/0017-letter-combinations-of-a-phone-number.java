@@ -1,44 +1,21 @@
 class Solution {
-    private Map<Character, String> digitToLetters = new HashMap<>();
-    private List<String> resultList = new ArrayList<>();
-
     public List<String> letterCombinations(String digits) {
-        if (digits == null || digits.length() == 0) {
-            return resultList;
-        }
+        if (digits.isEmpty()) return Collections.emptyList();
 
-        digitToLetters.put('2', "abc");
-        digitToLetters.put('3', "def");
-        digitToLetters.put('4', "ghi");
-        digitToLetters.put('5', "jkl");
-        digitToLetters.put('6', "mno");
-        digitToLetters.put('7', "pqrs");
-        digitToLetters.put('8', "tuv");
-        digitToLetters.put('9', "wxyz");
-
-        generateCombinations(digits, 0, new StringBuilder());
-
-        return resultList;
-
-
+        String[] phone_map = {"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        List<String> output = new ArrayList<>();
+        backtrack("", digits, phone_map, output);
+        return output;
     }
 
-
-    private void generateCombinations(String digits, int currentIndex, StringBuilder currentCombination) {
-        if (currentIndex == digits.length()) {
-            resultList.add(currentCombination.toString());
-            return;
+    private void backtrack(String combination, String next_digits, String[] phone_map, List<String> output) {
+        if(next_digits.isEmpty()) {
+            output.add(combination);
         }
-
-        char currentDigit = digits.charAt(currentIndex);
-        String letterOptions = digitToLetters.get(currentDigit);
-
-        if (letterOptions != null) {
-            for (int i = 0; i < letterOptions.length(); i++) {
-                char letter = letterOptions.charAt(i);
-                currentCombination.append(letter);
-                generateCombinations(digits, currentIndex + 1, currentCombination);
-                currentCombination.deleteCharAt(currentCombination.length() - 1);
+        else {
+            String letters = phone_map[next_digits.charAt(0) - '2'];
+            for(char letter : letters.toCharArray()) {
+                backtrack(combination + letter, next_digits.substring(1), phone_map, output);
             }
         }
     }
