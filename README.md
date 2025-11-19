@@ -71,6 +71,7 @@
 | [0014-longest-common-prefix](https://github.com/keerthana054/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/keerthana054/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/keerthana054/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/keerthana054/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/keerthana054/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/keerthana054/Leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/keerthana054/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/keerthana054/Leetcode/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keerthana054/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/keerthana054/Leetcode/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
