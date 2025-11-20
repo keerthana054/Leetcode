@@ -16,6 +16,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthana054/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0506-relative-ranks](https://github.com/keerthana054/Leetcode/tree/master/0506-relative-ranks) |
+| [0759-set-intersection-size-at-least-two](https://github.com/keerthana054/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/keerthana054/Leetcode/tree/master/1127-last-stone-weight) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthana054/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -60,6 +61,7 @@
 | [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/keerthana054/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0506-relative-ranks](https://github.com/keerthana054/Leetcode/tree/master/0506-relative-ranks) |
+| [0759-set-intersection-size-at-least-two](https://github.com/keerthana054/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthana054/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthana054/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -82,6 +84,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/keerthana054/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
