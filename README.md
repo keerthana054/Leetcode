@@ -48,6 +48,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthana054/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthana054/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/keerthana054/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/keerthana054/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthana054/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/keerthana054/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/keerthana054/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -78,6 +79,7 @@
 | [0392-is-subsequence](https://github.com/keerthana054/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/keerthana054/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/keerthana054/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/keerthana054/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthana054/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -125,6 +127,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/keerthana054/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/keerthana054/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/keerthana054/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Brainteaser
 |  |
@@ -254,6 +257,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/keerthana054/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/keerthana054/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/keerthana054/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 ## Memoization
