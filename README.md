@@ -17,6 +17,7 @@
 | [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0506-relative-ranks](https://github.com/keerthana054/Leetcode/tree/master/0506-relative-ranks) |
 | [0759-set-intersection-size-at-least-two](https://github.com/keerthana054/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/keerthana054/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/keerthana054/Leetcode/tree/master/1127-last-stone-weight) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/keerthana054/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/keerthana054/Leetcode/tree/master/0268-missing-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/keerthana054/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/keerthana054/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/keerthana054/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/keerthana054/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
