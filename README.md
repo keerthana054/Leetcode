@@ -179,6 +179,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthana054/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/keerthana054/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/keerthana054/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Graph
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthana054/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/keerthana054/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
