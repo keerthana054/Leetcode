@@ -116,6 +116,7 @@
 | [0915-generate-random-point-in-a-circle](https://github.com/keerthana054/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/keerthana054/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthana054/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1510-stone-game-iv](https://github.com/keerthana054/Leetcode/tree/master/1510-stone-game-iv) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/keerthana054/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2649-count-total-number-of-colored-cells](https://github.com/keerthana054/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -161,6 +162,7 @@
 | [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/keerthana054/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/keerthana054/Leetcode/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| [1510-stone-game-iv](https://github.com/keerthana054/Leetcode/tree/master/1510-stone-game-iv) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/keerthana054/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/keerthana054/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/keerthana054/Leetcode/tree/master/0292-nim-game) |
+| [1510-stone-game-iv](https://github.com/keerthana054/Leetcode/tree/master/1510-stone-game-iv) |
 ## Counting Sort
 |  |
 | ------- |
