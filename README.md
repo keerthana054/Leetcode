@@ -89,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/keerthana054/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/keerthana054/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/keerthana054/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/keerthana054/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/keerthana054/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/keerthana054/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/keerthana054/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -327,4 +328,8 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/keerthana054/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/keerthana054/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/keerthana054/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Union Find
+|  |
+| ------- |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/keerthana054/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
