@@ -20,6 +20,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/keerthana054/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/keerthana054/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/keerthana054/Leetcode/tree/master/1127-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/keerthana054/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/keerthana054/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthana054/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthana054/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -182,6 +183,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/keerthana054/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/keerthana054/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/keerthana054/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthana054/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -270,6 +272,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/keerthana054/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/keerthana054/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/keerthana054/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 ## Backtracking
