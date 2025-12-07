@@ -121,6 +121,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/keerthana054/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1395-minimum-time-visiting-all-points](https://github.com/keerthana054/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1510-stone-game-iv](https://github.com/keerthana054/Leetcode/tree/master/1510-stone-game-iv) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/keerthana054/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/keerthana054/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2649-count-total-number-of-colored-cells](https://github.com/keerthana054/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/keerthana054/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
